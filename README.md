@@ -10,3 +10,4 @@
   - [Week3 Transformer](https://imsmile2000.tistory.com/142)
   - [Week3 RNN](https://imsmile2000.tistory.com/69)
   - [Week3 Auto-regressive model](https://imsmile2000.tistory.com/145)
+  - [Week3 VAE, GAN, Diffusion model](https://imsmile2000.tistory.com/148)
