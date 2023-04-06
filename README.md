@@ -28,4 +28,9 @@ Week4 DataViz & CV
   - [Week4 GoogleNet과 ResNet](https://imsmile2000.tistory.com/158)
   - [Week4 FCN, U-Net, DeepLab](https://imsmile2000.tistory.com/159)
   - [Week4 R-CNN, YOLO, SSD](https://imsmile2000.tistory.com/162)
+  - [Week4 CNN 결과 분석 기법](https://imsmile2000.tistory.com/165)
+  - [Week4 Instance/Panoptic segmentation](https://imsmile2000.tistory.com/166)
+  - [Week4 cGAN](https://imsmile2000.tistory.com/167)
+  - [Week4 Multi-modal learning](https://imsmile2000.tistory.com/168)
+  
   
