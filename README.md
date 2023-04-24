@@ -36,5 +36,5 @@ Week5 CV
   - [Week5 Multi-modal learning](https://imsmile2000.tistory.com/168)
   
 Week6 
-  
+  - 
   
