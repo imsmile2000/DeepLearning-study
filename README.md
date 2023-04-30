@@ -39,6 +39,7 @@ Week5 CV
   
 Week6 Mask Classification 프로젝트
   - [Week6 EDA](https://imsmile2000.tistory.com/173)
+  - [프로젝트 코드 및 레포트](https://github.com/imsmile2000/Pstage_01_image_classification)
   
 
 Week7 AI 서비스 개발 기초
