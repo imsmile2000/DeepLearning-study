@@ -34,7 +34,21 @@ Week5 CV
   - [Week5 Instance/Panoptic segmentation](https://imsmile2000.tistory.com/166)
   - [Week5 cGAN](https://imsmile2000.tistory.com/167)
   - [Week5 Multi-modal learning](https://imsmile2000.tistory.com/168)
+  - [Week5 3D dataset & 3D task](https://imsmile2000.tistory.com/169)
+  - [Week5 비정형 데이터셋 시각화](https://imsmile2000.tistory.com/172)
   
-Week6 
-  - 
+Week6 Mask Classification 프로젝트
+  - [Week6 EDA](https://imsmile2000.tistory.com/173)
+  
+
+Week7 AI 서비스 개발 기초
+  - [Week7 소프트웨어 엔지니어링](https://imsmile2000.tistory.com/174)
+  - [Week7 파이썬 버전 관리](https://imsmile2000.tistory.com/175)
+  - [Week7 Linux 쉘 스크립트](https://imsmile2000.tistory.com/176)
+  - [Week7 디버깅, 서버관리](https://imsmile2000.tistory.com/177)
+  - [Week7 MLOps 개론](https://imsmile2000.tistory.com/178)
+  - [Week7 Model Serving](https://imsmile2000.tistory.com/179)
+  - [Week7 Docker](https://imsmile2000.tistory.com/180)
+  - [Week7 Streamlit](https://imsmile2000.tistory.com/181)
+  
   
