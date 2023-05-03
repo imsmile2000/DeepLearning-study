@@ -51,5 +51,10 @@ Week7 AI 서비스 개발 기초
   - [Week7 Model Serving](https://imsmile2000.tistory.com/179)
   - [Week7 Docker](https://imsmile2000.tistory.com/180)
   - [Week7 Streamlit](https://imsmile2000.tistory.com/181)
+  - [Week7 머신러닝 프로젝트 라이프 사이클](https://imsmile2000.tistory.com/182)
   
-  
+Week8 Object Detection
+  - [Week8 Overview](https://imsmile2000.tistory.com/183)
+  - [Week8 2 stage Detectors](https://imsmile2000.tistory.com/184)
+  - [Week8 MMDetection과 Detectron2](https://imsmile2000.tistory.com/185)
+  - [Week8 Neck](https://imsmile2000.tistory.com/186)
